@@ -1,0 +1,2 @@
+# PAINT-BRUSH-APPLICATION
+PAINT BRUSH APPLICATION is developed in Python  using PyQt5
